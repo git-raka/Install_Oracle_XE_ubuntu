@@ -25,3 +25,6 @@ sudo systemctl stop firewalld
 
 <img width="767" alt="image" src="https://user-images.githubusercontent.com/77326619/188312293-64ca1618-48fe-4b97-8ff0-1bb281aad0a2.png">
 
+<img width="538" alt="image" src="https://user-images.githubusercontent.com/77326619/188313981-b88a3295-4b98-450e-a3e0-473c9698ec4a.png">
+
+
